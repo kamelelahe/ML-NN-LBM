@@ -7,11 +7,12 @@ It should be noted that since the size of data (input omega fields and output pi
 <p align="center">
  <img src="https://github.com/kamelelahe/ML-NN-LBM/blob/main/figs/changesGeom.JPG" style="width:500px;"">
 </p>
-As it can be inferred from below, with increasing the threshold value, more pores are blocked with polymer gel. When we increased the maximum omega at which the polymer gel can flow in pores, the required minimum viscosity for forming the gel in the pores was decreased. So, there will be more pores with the minimum viscosity criteria to develop gel in them.                                                                                                         
+As it can be inferred from below, with increasing the threshold value for a constant TD_factor, more pores are blocked with polymer gel. When we increased the maximum omega at which the polymer gel can flow in pores, the required minimum viscosity for forming the gel in the pores was decreased. So, there will be more pores with the minimum viscosity criteria to develop gel in them.                                                                                                         
 <p align="center">
  <img src="https://github.com/kamelelahe/ML-NN-LBM/blob/main/figs/variousThresh.JPG" style="width:500px;"">
 </p>
 
+Also as it is shown in below, for a constant threshold value, increasing TD_factor translated to blockage of more pores with polymer gel beacuese the gelation is more pronounced.
 <p align="center">
  <img src="https://github.com/kamelelahe/ML-NN-LBM/blob/main/figs/gelsTD.JPG" style="width:500px;"">
 </p>
