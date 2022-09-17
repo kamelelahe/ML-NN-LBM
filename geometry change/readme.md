@@ -14,5 +14,5 @@ As it can be inferred from below, with increasing the threshold value for a cons
 
 Also as it is shown in below, for a constant threshold value, increasing TD_factor translated to blockage of more pores with polymer gel beacuese the gelation is more pronounced.
 <p align="center">
- <img src="https://github.com/kamelelahe/ML-NN-LBM/blob/main/figs/gelsTD.JPG" style="width:500px;"">
+ <img src="https://github.com/kamelelahe/ML-NN-LBM/blob/main/figs/gelsTD.JPG" style="width:700px;"">
 </p>
