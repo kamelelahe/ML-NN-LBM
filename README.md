@@ -8,5 +8,5 @@ To take a brife look, different steps for this reasearch are shown in below figu
 up to the goal of this reasearch, some steps such as post processing, sensitivoty analysis and also building ANN are done with python. this repository contains all of python code in seperate folders. in each foler the readme.md file explains the code and also some details about different parts of the code are written within the file.
 
 <h4> Publications </h4>
-1-	Lattice Boltzmann Simulation of Cross-linked Polymer Gel Injection in Porous Media (submitted to “journal of computer and mathematics with applications”, under review)
+1-	Lattice Boltzmann Simulation of Cross-linked Polymer Gel Injection in Porous Media (submitted to “journal of computer and mathematics with applications”, under review)</l>
 2-	Design of Artificial Neural Network for Predicting the Reduction in Permeability of Porous Media as a Result of Polymer Gel Injection (submitted to “journal of  petroleum science and engineering”, under review)
