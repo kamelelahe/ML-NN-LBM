@@ -7,8 +7,8 @@ It should be noted that since the size of data (input omega fields and output pi
  <img src="https://github.com/kamelelahe/ML-NN-LBM/blob/main/figs/changesGeom.JPG" style="width:500px;"">
 </p>
 <p align="center">
- <img src="https://github.com/kamelelahe/ML-NN-LBM/blob/main/figs/gelsTD.JPG style="width:500px;"">
+ <img src="https://github.com/kamelelahe/ML-NN-LBM/blob/main/figs/variousThresh.JPG" style="width:500px;"">
 </p>
 <p align="center">
- <img src="https://github.com/kamelelahe/ML-NN-LBM/blob/main/figs/gelsThreshold.JPG" style="width:500px;"">
+ <img src="https://github.com/kamelelahe/ML-NN-LBM/blob/main/figs/gelsTD.JPG" style="width:500px;"">
 </p>
